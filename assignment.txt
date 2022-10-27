@@ -1,0 +1,4 @@
+The full stack developer definition is someone who can work on both the back-end and front-end of systems.
+This means that they can develop fully fledged platforms (with databases, servers and clients) which don’t need other applications to function.
+
+Tools used by Full Stack Developer innclude multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery), multiple back-end languages (e.g. C#, Java, Python) and JavaScript frameworks (e.g. Angular, React, Node.js), databases (e.g. MySQL, MongoDB), web servers (e.g. Apache)
